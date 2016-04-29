@@ -1,0 +1,13 @@
+
+Usage: node . <command>
+
+where <command> is one of:
+    list, add, done <number>.
+
+node . list     		Overview your To-do list.
+node . add           		Add item to your list.
+node . done <number>	        where <number> is the number of your item that you've done.
+node . clear 			clear all item of To-do list.
+
+if you want to clear some task, you can lie by typing done <number> I will close my eyes.
+
